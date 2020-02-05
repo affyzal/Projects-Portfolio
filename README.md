@@ -1,2 +1,2 @@
 # Projects-Portfolio
-Repository to hold copy of every project i have worked on
+Repository to hold copy of projects i have worked on
