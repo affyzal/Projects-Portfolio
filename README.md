@@ -1,5 +1,5 @@
 # Projects-Portfolio
-Repository to hold copy of projects i have worked on during uni
+Repository to hold copy of some projects i have worked on during uni
 
 Relevant Links:
 
